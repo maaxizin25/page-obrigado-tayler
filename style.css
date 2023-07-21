@@ -131,6 +131,7 @@ img {
   border: 5px solid white;
   border-width: 1px 3px 2px 1px;
   border-radius: 8px;
+  cursor: pointer;
 }
 .button-container > p {
   background-color: transparent;
